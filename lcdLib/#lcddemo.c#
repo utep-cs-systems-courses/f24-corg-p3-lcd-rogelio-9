@@ -14,7 +14,7 @@ main()
   lcd_init();
   u_char width = screenWidth, height = screenHeight;
 
-  clearScreen(COLOR_DARK_VIOLE);
+  clearScreen(COLOR_);
 
   //int col, row;
   //int centerCol = width/2, centerRow = height/2;
@@ -31,8 +31,8 @@ main()
 	//}
       //}
     //}
-  drawString5x7(10, 10, "Print Text", COLOR_GREEN, COLOR_RED);
-  drawString5x7(20, 20, "Welcome", COLOR_GREEN, COLOR_RED);
+  drawString5x7(10, 10, "puto el q lo lea", COLOR_GREEN, COLOR_RED);
+  drawString5x7(20, 20, "soy la verga", COLOR_GREEN, COLOR_RED);
   //drawString5x7(20,20, "hello", COLOR_GREEN, COLOR_RED);
   //fillRectangle(30,30, 60, 60, COLOR_ORANGE);
   
