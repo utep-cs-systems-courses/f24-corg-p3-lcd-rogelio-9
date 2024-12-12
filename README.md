@@ -8,8 +8,8 @@ A simple and fun car game featuring an interactive LCD display! Control your car
 The rules are simple:
 - **SW1**: Start/stop the car's horizontal movement.
 - **SW2**: Cycle the car's color (Red → Blue → Green).
-- **SW3 (Hold)**: Move the car up.
-- **SW4 (Hold)**: Move the car down.
+- **SW3**: Move the car up.
+- **SW4**: Move the car down.
 
 ### Objective
 - Collect as many coins as possible!
