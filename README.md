@@ -38,6 +38,7 @@ The rules are simple:
    ```bash
    $ make clean
 3. Compile and load the game:
+   ```bash
    $ make load-car
 ## What I Learned
 Working on this project helped me understand:
